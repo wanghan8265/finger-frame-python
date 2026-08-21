@@ -2,7 +2,7 @@
 
 选择一段已录好的视频，其中包含用双手食指+拇指围成方框的手势，在方框内应用特效，输出为 mp4。
 
-## 特效
+## 特效（基本都是由openCV实现，不涉及AIGC）
 Pixelate、Blur、Invert、Noir、Glitch、Toon
 Pencil、Watercolor、Oil、Edge
 
